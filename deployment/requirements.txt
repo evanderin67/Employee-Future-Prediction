@@ -1,0 +1,8 @@
+streamlit
+pandas
+seaborn
+matplotlib
+scikit-learn == 1.1.3
+numpy
+plotly
+xgboost == 1.7.3

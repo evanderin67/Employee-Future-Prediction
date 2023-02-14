@@ -1,0 +1,2 @@
+link dataset : https://www.kaggle.com/datasets/tejashvi14/employee-future-prediction?datasetId=1642869&sortBy=voteCount
+link deployment (hugging face) : https://huggingface.co/spaces/evanderin/P1M2_FTDS-RMT17_evan_derin_ihsanudin
